@@ -1,3 +1,6 @@
+![Intro](https://media.licdn.com/dms/image/v2/D4E22AQG-4AuEEwG0IA/feedshare-shrink_800/feedshare-shrink_800/0/1728303442346?e=1736380800&v=beta&t=aZc1WGUT8YS2p--3K5L09_3Ew-gnqfHrrIuy28spYJc)
+
+
 # ¡Hola! 👋 Soy **Boris** | *DevOps in Progress* 🚀  
 ## "Transformando infraestructuras, creando el futuro." 🌐
 

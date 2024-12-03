@@ -1,48 +1,65 @@
-## Hi there 👋
-
-<!--
-**borizSam/borizSam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# 👾 **Boris** | *DevOps in Progress* 🚀
+# ¡Hola! 👋 Soy **Boris** | *DevOps in Progress* 🚀  
 ## "Transformando infraestructuras, creando el futuro." 🌐
 
-### 🛠️ **Soy un apasionado de la automatización, la integración continua y el despliegue continuo.**
-Actualmente, me estoy formando para ser un **DevOps Engineer**, un arquitecto del futuro que conecta desarrollo y operaciones para crear entornos más eficientes, rápidos y escalables. 🌍
+### 🛠️ **Explorador de la automatización, la integración continua y el despliegue continuo.**  
+Actualmente me estoy formando para ser un **DevOps**, con la visión de llegar a ser un **DevOps Architect**. Mi objetivo es conectar desarrollo y operaciones para crear entornos más eficientes, rápidos y escalables. 🌍
 
-#### ⚡ **Mis Herramientas del Futuro:**
+#### ⚡ **Herramientas que estoy dominando:**
+
 - 🖥️ **Linux** | **Docker** | **Kubernetes** | **Terraform** | **Ansible**
 - ⚙️ **CI/CD**: Jenkins | GitLab CI | CircleCI
-- 🛠️ **Automatización** | **Infraestructura como Código** | **Monitoreo y Seguridad**
-  
-> *La tecnología es mi herramienta, y el futuro es mi destino.*
+- 🛠️ **Automatización** | **Infraestructura como Código (IaC)** | **Monitoreo y Seguridad**
 
-### 🚀 **Proximos Proyectos**
+> *"La tecnología es mi herramienta, y el futuro es mi destino."*
 
-#### [CI/CD Pipeline en Docker]
-Un proyecto donde he implementado un pipeline de integración continua utilizando **Docker** y **Jenkins** para la automatización de despliegues. ⚙️
+---
 
-#### [Automatización de Infraestructura con Terraform]
-**Infraestructura como Código** para crear entornos seguros y escalables en la nube. 🌐
+### 🚀 **Proyectos en los que estoy trabajando:**
+
+#### [CI/CD Pipeline en Docker y Jenkins]  
+He implementado un pipeline de **Integración Continua** utilizando **Docker** y **Jenkins** para automatizar el proceso de despliegue. Este proyecto me ha permitido optimizar el ciclo de vida del software y mejorar la colaboración entre desarrollo y operaciones. ⚙️
+
+#### [Automatización de Infraestructura con Terraform]  
+Trabajo en proyectos de **Infraestructura como Código (IaC)** con **Terraform** para crear entornos en la nube seguros, escalables y fácilmente replicables. 🌐
+
+#### [Automatización con GitHub Actions]  
+Estoy aprendiendo y experimentando con **GitHub Actions** para crear flujos de trabajo automatizados que optimicen mis pipelines y tareas repetitivas. Esto me está ayudando a mejorar la eficiencia de los procesos de integración y despliegue. 🔄
+
+#### [Despliegue con GitHub Pages]  
+Estoy trabajando en la creación y despliegue de proyectos estáticos utilizando **GitHub Pages**, lo que me permite entender mejor los flujos de trabajo de implementación y la gestión de sitios web sencillos. 🌍
 
 > *"El futuro es la automatización. Mi misión: hacerlo posible."* ✨
 
-### 🌟 **Objetivos a Corto Plazo** 🌟
+---
 
+### 🌟 **Mis Objetivos:**
+
+#### **A Corto Plazo**:
 - 💻 Experimentar con nuevas herramientas de **orquestación** como **Kubernetes**.
-- 🏗️ Continuar aprendiendo y aplicando **Infraestructura como Código**.
+- 🏗️ Ir aprendiendo y aplicando **Infraestructura como Código** con **Terraform**.
 
-### 🌐 **Objetivos a Largo Plazo** 🌐
-- 🚀 Convertirme en un **DevOps-Arquitec** que implementa soluciones a gran escala.
-- 🌍 Hacer contribuciones significativas al mundo open-source.
+#### **A Largo Plazo**:
+- 🚀 Convertirme en un **DevOps Architect**, diseñando soluciones a gran escala que optimicen tanto el desarrollo como la operación de software.
+- 🌍 Contribuir de manera significativa al mundo open-source, compartiendo mis conocimientos y experiencias.
+
+---
+
+### 🌱 **Mi Visión**  
+Mi camino hacia convertirme en un **DevOps Architect** Estoy trabajando para ser parte de la próxima generación de arquitectos DevOps que transformen las infraestructuras del mañana.
+
+---
+
+¡*DevOps in Progress*¡ 🚀💻🚀  
+
+### ⚙️ GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/borizSam">
+    <!-- GitHub Stats -->
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=borizSam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <!-- Top Languages -->
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=borizSam&layout=compact&langs_count=8&theme=algolia" alt="Top Languages"/>
+  </a>
+</p>
+
+

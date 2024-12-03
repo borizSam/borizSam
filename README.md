@@ -48,7 +48,7 @@ Estoy trabajando en la creación y despliegue de proyectos estáticos utilizando
 ---
 
 ### 🌱 **Mi Visión**  
-Mi camino hacia convertirme en un **DevOps Architect** Estoy trabajando para ser parte de la próxima generación de arquitectos DevOps que transformen las infraestructuras del mañana.
+Estoy trabajando para convertirme en un DevOps Architect y ser parte de la próxima generación que transformarán las infraestructuras del mañana.
 
 ---
 

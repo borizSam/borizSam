@@ -1,6 +1,5 @@
 <!--![Intro](https://media.licdn.com/dms/image/v2/D4E22AQG-4AuEEwG0IA/feedshare-shrink_800/feedshare-shrink_800/0/1728303442346?e=1736380800&v=beta&t=aZc1WGUT8YS2p--3K5L09_3Ew-gnqfHrrIuy28spYJc) -->
-
-![Intro](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGs0d3VhaHY0aXBnMHlicDZmdzNncTAyOTdpaHVzN25jdGIwMzQwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SUcnmocyRKkfSil9xd/giphy.webp)
+![Intro](https://i.pinimg.com/originals/72/e9/c3/72e9c33f3327bfb2485c80b3188e41fb.gif)
 # ¡Hola! 👋 Soy **Boris** | *DevOps in Progress* 🚀  
 ## "Transformando infraestructuras, creando el futuro." 🌐
 

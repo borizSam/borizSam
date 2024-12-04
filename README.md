@@ -19,10 +19,10 @@ Actualmente me estoy formando para ser un **DevOps**, con la visión de llegar a
 ### 🚀 **Proyectos en los que estoy trabajando:**
 
 #### [CI/CD Pipeline en Docker y Jenkins]  
-He implementado un pipeline de **Integración Continua** utilizando **Docker** y **Jenkins** para automatizar el proceso de despliegue. Este proyecto me ha permitido optimizar el ciclo de vida del software y mejorar la colaboración entre desarrollo y operaciones. ⚙️
+Estoy implementado un pipeline de **Integración Continua** utilizando **Docker** y **Jenkins** para automatizar el proceso de despliegue. Este proyecto me ha permitido optimizar el ciclo de vida del software y mejorar la colaboración entre desarrollo y operaciones. ⚙️
 
 #### [Automatización de Infraestructura con Terraform]  
-Trabajo en proyectos de **Infraestructura como Código (IaC)** con **Terraform** para crear entornos en la nube seguros, escalables y fácilmente replicables. 🌐
+Explorando  **Infraestructura como Código (IaC)** con **Terraform** para crear entornos en la nube seguros, escalables y fácilmente replicables. 🌐
 
 #### [Automatización con GitHub Actions]  
 Estoy aprendiendo y experimentando con **GitHub Actions** para crear flujos de trabajo automatizados que optimicen mis pipelines y tareas repetitivas. Esto me está ayudando a mejorar la eficiencia de los procesos de integración y despliegue. 🔄

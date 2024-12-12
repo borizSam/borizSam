@@ -39,10 +39,12 @@ Estoy trabajando en la creación y despliegue de proyectos estáticos utilizando
 #### **A Corto Plazo**:
 - 💻 Experimentar con nuevas herramientas de **orquestación** como **Kubernetes**.
 - 🏗️ Ir aprendiendo y aplicando **Infraestructura como Código** con **Terraform**.
+- 🔒 Mejorar seguridad y gestión de redes
 
 #### **A Largo Plazo**:
 - 🚀 Convertirme en un **DevOps Architect**, diseñando soluciones a gran escala que optimicen tanto el desarrollo como la operación de software.
 - 🌍 Contribuir de manera significativa al mundo open-source, compartiendo mis conocimientos y experiencias.
+- 📈 Convertir la automatización en un estándar.
 
 ---
 

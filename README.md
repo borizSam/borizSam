@@ -17,10 +17,16 @@ Formándome continuamente en el ecosistema DevOps, con la visión de diseñar in
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![ECS](https://img.shields.io/badge/ECS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![ECR](https://img.shields.io/badge/ECR-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![EKS](https://img.shields.io/badge/EKS-0052CC?style=flat&logo=amazon-eks&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white)
+![Route53](https://img.shields.io/badge/Route_53-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
+![Cognito](https://img.shields.io/badge/Cognito-7B42BC?style=flat&logo=amazoncognito&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=flat&logo=amazonaws&logoColor=white)
 
 ---
 
@@ -29,32 +35,32 @@ Formándome continuamente en el ecosistema DevOps, con la visión de diseñar in
 #### 🧭 **Aeropuerto App: CI/CD + AWS ECS + Docker**
 - Backend + Frontend + Infraestructura.
 - Despliegue automatizado con GitHub Actions.
-- Dockerizado y desplegado en AWS ECS (Fargate).
-- Redes privadas (VPC), seguridad y escalabilidad.
-- DB Postgres administrada (NeonDB).
+- Imágenes en ECR, contenedores en ECS con Fargate.
+- Base de datos administrada (Postgres, NeonDB).
+- Integración completa y entrega continua.
 
 #### 🔧 **Automatización con Terraform (en progreso)**
 - Infraestructura reproducible en AWS.
-- Modularización, state remoto y versionado.
+- Enfoque en mejores prácticas de IaC.
 
 #### 🔄 **Flujos CI/CD con Jenkins + GitHub Actions**
-- Pipelines de integración y despliegue automatizado.
-- Validaciones, test y deploy en distintas etapas.
+- Pipelines para múltiples entornos (dev, stage, prod).
+- Enfoque en calidad, seguridad y eficiencia.
 
 ---
 
 ### 🎯 **Objetivos:**
 
 #### Corto Plazo:
-- 💻 Consolidar Kubernetes (orquestación avanzada).
-- 🏗️ Dominar Terraform y Ansible en producción.
-- 🔒 Reforzar DevSecOps (scanners, SAST/DAST, IAM).
+- ☸️ Consolidar conocimientos avanzados en Kubernetes (EKS).
+- 🔐 Incorporar DevSecOps (Trivy, IAM Policies, controles de seguridad).
+- ⚙️ Profundizar en IaC con Terraform y Ansible.
 
 #### Largo Plazo:
-- 🧠 Diseñar arquitecturas **cloud-native** como DevOps Architect.
-- 🤝 Contribuir en proyectos **open-source** enfocados en automatización.
-- 💡 Impulsar la **cultura DevOps** y la entrega continua.
-
+- 🌐 Diseñar arquitecturas cloud-native como DevOps Architect.
+- 💡 Contribuir a proyectos open-source enfocados en automatización.
+- 📣 Impulsar la cultura DevOps en equipos y comunidades.
+  
 ---
 
 ### 📚 **Aprendiendo ahora:**

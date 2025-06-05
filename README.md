@@ -1,7 +1,6 @@
 <!-- Encabezado animado -->
 ![Intro](https://i.pinimg.com/originals/72/e9/c3/72e9c33f3327bfb2485c80b3188e41fb.gif)
-
-# ¡Hola! 👋 Soy **Boris** | *Building DevOps Skills* 🚀
+# <br>¡Hola! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> </br> Soy **Boris** | *Building DevOps Skills* 🚀
 
 ## "Automatizando ideas, escalando el futuro." 🌐
 

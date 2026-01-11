@@ -73,7 +73,8 @@ Formándome continuamente en el ecosistema DevOps, con la visión de diseñar in
 
 ### 📜 **Certificaciones:**
 
-- ☁️ AWS Cloud Practitioner (en progreso)
+- ☁️ AWS Cloud Practitioner
+- ☁️ AWS solutions architect (en progreso)
 - 🐧 Linux Essentials
 - 📦 Docker & Kubernetes Fundamentals
 

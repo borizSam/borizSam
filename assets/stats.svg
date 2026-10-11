@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="459" viewBox="0 0 900 459" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'Courier New',monospace" font-size="16">
+<title>github stats · borizSam</title>
+<rect x="1" y="1" width="898" height="457" rx="10" fill="#000000" stroke="#00ff41" stroke-opacity="0.35"/>
+<path d="M1 11a10 10 0 0 1 10-10h878a10 10 0 0 1 10 10v26H1z" fill="#0a0a0a"/>
+<line x1="1" y1="37" x2="899" y2="37" stroke="#00ff41" stroke-opacity="0.2"/>
+<circle cx="24" cy="19" r="6" fill="#222"/>
+<circle cx="46" cy="19" r="6" fill="#222"/>
+<circle cx="68" cy="19" r="6" fill="#00ff41" fill-opacity="0.8"/>
+<text x="450.0" y="24" text-anchor="middle" font-size="13" fill="#6e7681">boris@fsociety: ~/stats</text>
+<text x="28" y="70"><tspan fill="#00ff41">$ </tspan><tspan fill="#c9d1d9">gh user stats borizSam</tspan></text>
+<text x="28" y="94" fill="#00ff41">repos publicos</text>
+<text x="220" y="94" fill="#c9d1d9">71</text>
+<text x="28" y="118" fill="#00ff41">repos propios</text>
+<text x="220" y="118" fill="#c9d1d9">45</text>
+<text x="28" y="142" fill="#00ff41">stars recibidas</text>
+<text x="220" y="142" fill="#c9d1d9">7</text>
+<text x="28" y="166" fill="#00ff41">followers</text>
+<text x="220" y="166" fill="#c9d1d9">9</text>
+<text x="28" y="190" fill="#00ff41">following</text>
+<text x="220" y="190" fill="#c9d1d9">12</text>
+<text x="28" y="214" fill="#00ff41">en github desde</text>
+<text x="220" y="214" fill="#c9d1d9">2021 (5.0 anos)</text>
+<text x="28" y="254"><tspan fill="#00ff41">$ </tspan><tspan fill="#c9d1d9">gh repo langs --top 6</tspan></text>
+<text x="28" y="278" fill="#c9d1d9">JavaScript</text>
+<rect x="220" y="266" width="420" height="12" rx="2" fill="#0f1a0f"/>
+<rect x="220" y="266" width="126.0" height="12" rx="2" fill="#00ff41" fill-opacity="0.85"/>
+<text x="654" y="278" fill="#8b949e">30%  (9)</text>
+<text x="28" y="302" fill="#c9d1d9">Python</text>
+<rect x="220" y="290" width="420" height="12" rx="2" fill="#0f1a0f"/>
+<rect x="220" y="290" width="98.0" height="12" rx="2" fill="#00ff41" fill-opacity="0.85"/>
+<text x="654" y="302" fill="#8b949e">23%  (7)</text>
+<text x="28" y="326" fill="#c9d1d9">Shell</text>
+<rect x="220" y="314" width="420" height="12" rx="2" fill="#0f1a0f"/>
+<rect x="220" y="314" width="56.0" height="12" rx="2" fill="#00ff41" fill-opacity="0.85"/>
+<text x="654" y="326" fill="#8b949e">13%  (4)</text>
+<text x="28" y="350" fill="#c9d1d9">CSS</text>
+<rect x="220" y="338" width="420" height="12" rx="2" fill="#0f1a0f"/>
+<rect x="220" y="338" width="56.0" height="12" rx="2" fill="#00ff41" fill-opacity="0.85"/>
+<text x="654" y="350" fill="#8b949e">13%  (4)</text>
+<text x="28" y="374" fill="#c9d1d9">HTML</text>
+<rect x="220" y="362" width="420" height="12" rx="2" fill="#0f1a0f"/>
+<rect x="220" y="362" width="56.0" height="12" rx="2" fill="#00ff41" fill-opacity="0.85"/>
+<text x="654" y="374" fill="#8b949e">13%  (4)</text>
+<text x="28" y="398" fill="#c9d1d9">Java</text>
+<rect x="220" y="386" width="420" height="12" rx="2" fill="#0f1a0f"/>
+<rect x="220" y="386" width="28.0" height="12" rx="2" fill="#00ff41" fill-opacity="0.85"/>
+<text x="654" y="398" fill="#8b949e">7%  (2)</text>
+<text x="28" y="434" fill="#00ff41">$</text>
+<rect x="47.4" y="420" width="9" height="17" fill="#00ff41"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></rect>
+</svg>

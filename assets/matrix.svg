@@ -1,6 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="14">
 <title>hello, friend.</title>
-<rect width="900" height="200" rx="10" fill="#000000"/>
+<defs><clipPath id="r"><rect x="1" y="1" width="898" height="198" rx="10"/></clipPath></defs>
+<rect x="1" y="1" width="898" height="198" rx="10" fill="#000000"/>
+<g clip-path="url(#r)">
 <g>
 <animateTransform attributeName="transform" type="translate" values="0 -176; 0 210" dur="7.09s" begin="-3.78s" repeatCount="indefinite"/>
 <text x="6" y="16" fill="#00ff41" fill-opacity="0.08">3</text>
@@ -701,20 +703,8 @@
 <text x="888" y="160" fill="#00ff41" fill-opacity="0.76">9</text>
 <text x="888" y="176" fill="#d9ffe5" fill-opacity="1.00">0</text>
 </g>
-<g>
-<animateTransform attributeName="transform" type="translate" values="0 -176; 0 210" dur="7.88s" begin="-2.39s" repeatCount="indefinite"/>
-<text x="906" y="16" fill="#00ff41" fill-opacity="0.08">4</text>
-<text x="906" y="32" fill="#00ff41" fill-opacity="0.16">$</text>
-<text x="906" y="48" fill="#00ff41" fill-opacity="0.23">4</text>
-<text x="906" y="64" fill="#00ff41" fill-opacity="0.30">&gt;</text>
-<text x="906" y="80" fill="#00ff41" fill-opacity="0.38">8</text>
-<text x="906" y="96" fill="#00ff41" fill-opacity="0.46">6</text>
-<text x="906" y="112" fill="#00ff41" fill-opacity="0.53">#</text>
-<text x="906" y="128" fill="#00ff41" fill-opacity="0.60">0</text>
-<text x="906" y="144" fill="#00ff41" fill-opacity="0.68">B</text>
-<text x="906" y="160" fill="#00ff41" fill-opacity="0.76">1</text>
-<text x="906" y="176" fill="#d9ffe5" fill-opacity="1.00">:</text>
 </g>
+<rect x="1" y="1" width="898" height="198" rx="10" fill="none" stroke="#00ff41" stroke-opacity="0.35"/>
 <rect x="240.0" y="56.0" width="420" height="88" rx="8" fill="#000000" fill-opacity="0.82" stroke="#00ff41" stroke-opacity="0.6"/>
 <text x="450.0" y="102.0" text-anchor="middle" font-size="30" font-weight="bold" fill="#00ff41">hello, friend.</text>
 <text x="450.0" y="128.0" text-anchor="middle" font-size="13" fill="#8b949e">boris@fsociety:~$ <tspan fill="#00ff41">wake_up --now</tspan></text>

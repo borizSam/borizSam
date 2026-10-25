@@ -61,34 +61,34 @@ def render_stats(user, repos):
     out = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="900" height="{height}" viewBox="0 0 900 {height}" font-family="\'JetBrains Mono\',\'Fira Code\',\'SF Mono\',Consolas,\'Courier New\',monospace" font-size="16">',
         f"<title>github stats · {USER}</title>",
-        f'<rect x="1" y="1" width="898" height="{height - 2}" rx="10" fill="#000000" stroke="#00ff41" stroke-opacity="0.35"/>',
-        '<path d="M1 11a10 10 0 0 1 10-10h878a10 10 0 0 1 10 10v26H1z" fill="#0a0a0a"/>',
-        '<line x1="1" y1="37" x2="899" y2="37" stroke="#00ff41" stroke-opacity="0.2"/>',
-        '<circle cx="24" cy="19" r="6" fill="#222"/>',
-        '<circle cx="46" cy="19" r="6" fill="#222"/>',
-        '<circle cx="68" cy="19" r="6" fill="#00ff41" fill-opacity="0.8"/>',
-        '<text x="450.0" y="24" text-anchor="middle" font-size="13" fill="#6e7681">boris@fsociety: ~/stats</text>',
-        f'<text x="28" y="70"><tspan fill="#00ff41">$ </tspan><tspan fill="#c9d1d9">gh user stats {USER}</tspan></text>',
+        f'<rect x="1" y="1" width="898" height="{height - 2}" rx="10" fill="#000000" stroke="#3a3a3a"/>',
+        '<path d="M1 11a10 10 0 0 1 10-10h878a10 10 0 0 1 10 10v26H1z" fill="#0d0d0d"/>',
+        '<line x1="1" y1="37" x2="899" y2="37" stroke="#3a3a3a"/>',
+        '<circle cx="24" cy="19" r="6" fill="#262626"/>',
+        '<circle cx="46" cy="19" r="6" fill="#262626"/>',
+        '<circle cx="68" cy="19" r="6" fill="#e3131b"/>',
+        '<text x="450.0" y="24" text-anchor="middle" font-size="13" fill="#8a8a8a">eterm — boris@fsociety: ~/stats</text>',
+        f'<text x="28" y="70"><tspan fill="#e3131b">eterm##$: </tspan><tspan fill="#f2f2f2">gh user stats {USER}</tspan></text>',
     ]
     y = 94
     for label, value in rows:
-        out.append(f'<text x="28" y="{y}" fill="#00ff41">{label}</text>')
-        out.append(f'<text x="220" y="{y}" fill="#c9d1d9">{value}</text>')
+        out.append(f'<text x="28" y="{y}" fill="#e3131b">{label}</text>')
+        out.append(f'<text x="220" y="{y}" fill="#f2f2f2">{value}</text>')
         y += 24
 
     y += 16
-    out.append(f'<text x="28" y="{y}"><tspan fill="#00ff41">$ </tspan><tspan fill="#c9d1d9">gh repo langs --top {TOP_LANGS}</tspan></text>')
+    out.append(f'<text x="28" y="{y}"><tspan fill="#e3131b">eterm##$: </tspan><tspan fill="#f2f2f2">gh repo langs --top {TOP_LANGS}</tspan></text>')
     for lang, n in top:
         y += 24
         pct = n / total
-        out.append(f'<text x="28" y="{y}" fill="#c9d1d9">{escape(lang)}</text>')
-        out.append(f'<rect x="220" y="{y - 12}" width="420" height="12" rx="2" fill="#0f1a0f"/>')
-        out.append(f'<rect x="220" y="{y - 12}" width="{420 * pct:.1f}" height="12" rx="2" fill="#00ff41" fill-opacity="0.85"/>')
-        out.append(f'<text x="654" y="{y}" fill="#8b949e">{round(pct * 100)}%  ({n})</text>')
+        out.append(f'<text x="28" y="{y}" fill="#c9c9c9">{escape(lang)}</text>')
+        out.append(f'<rect x="220" y="{y - 12}" width="420" height="12" rx="2" fill="#2a0608"/>')
+        out.append(f'<rect x="220" y="{y - 12}" width="{420 * pct:.1f}" height="12" rx="2" fill="#e3131b"/>')
+        out.append(f'<text x="654" y="{y}" fill="#8a8a8a">{round(pct * 100)}%  ({n})</text>')
 
     y += 36
-    out.append(f'<text x="28" y="{y}" fill="#00ff41">$</text>')
-    out.append(f'<rect x="47.4" y="{y - 14}" width="9" height="17" fill="#00ff41"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></rect>')
+    out.append(f'<text x="28" y="{y}" fill="#e3131b">eterm##$:</text>')
+    out.append(f'<rect x="124" y="{y - 14}" width="9" height="17" fill="#f2f2f2"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></rect>')
     out.append("</svg>")
     return "\n".join(out) + "\n"
 

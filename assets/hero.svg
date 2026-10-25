@@ -1,0 +1,241 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330">
+<title>hello, friend.</title>
+<defs>
+<pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="1" fill="#fff" fill-opacity="0.035"/></pattern>
+<radialGradient id="glow" cx="50%" cy="45%" r="55%"><stop offset="0" stop-color="#e3131b" stop-opacity="0.16"/><stop offset="1" stop-color="#e3131b" stop-opacity="0"/></radialGradient>
+<clipPath id="frame"><rect x="1" y="1" width="898" height="328" rx="10"/></clipPath>
+<clipPath id="g0"><rect x="0" y="100.0" width="900" height="18"/></clipPath><clipPath id="g1"><rect x="0" y="138.0" width="900" height="10"/></clipPath><clipPath id="g2"><rect x="0" y="162.0" width="900" height="14"/></clipPath>
+</defs>
+<rect x="1" y="1" width="898" height="328" rx="10" fill="#000000"/>
+<g clip-path="url(#frame)">
+<rect width="900" height="330" fill="url(#glow)">
+  <animate attributeName="opacity" values="0;0;1;0.2;1;0.6;1" keyTimes="0;0.1;0.18;0.24;0.3;0.36;1" dur="2.2s" fill="freeze"/>
+</rect>
+<text x="24" y="34" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'DejaVu Sans Mono','Courier New',monospace" font-size="12" fill="#8a8a8a">eterm##$: <tspan fill="#f2f2f2">./fsociety00.dat</tspan></text>
+<text x="876" y="34" text-anchor="end" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'DejaVu Sans Mono','Courier New',monospace" font-size="12" fill="#3a3a3a">PID 1337 · ROOT</text>
+<g opacity="0">
+  <animate attributeName="opacity" values="0;0;1;0.1;1;0.3;1" keyTimes="0;0.1;0.18;0.24;0.3;0.36;1" dur="2.2s" fill="freeze"/>
+  <g transform="translate(60.0 92.0) scale(0.8496732026143791)" >
+<clipPath id="box0"><rect x="-50" y="0" width="1018" height="100"/></clipPath>
+<g clip-path="url(#box0)">
+<g fill="none" stroke="#e3131b" stroke-width="24" stroke-linejoin="round" stroke-linecap="square">
+<path transform="translate(0.0 0)" d="M12.0 12.0L12.0 88.0"/>
+<path transform="translate(0.0 0)" d="M62.0 12.0L62.0 88.0"/>
+<path transform="translate(0.0 0)" d="M12.0 50.0L62.0 50.0"/>
+<path transform="translate(88.0 0)" d="M54.0 12.0L12.0 12.0L12.0 88.0L54.0 88.0"/>
+<path transform="translate(88.0 0)" d="M12.0 50.0L48.0 50.0"/>
+<path transform="translate(168.0 0)" d="M12.0 12.0L12.0 88.0L50.0 88.0"/>
+<path transform="translate(244.0 0)" d="M12.0 12.0L12.0 88.0L50.0 88.0"/>
+<path transform="translate(320.0 0)" d="M34.0 12.0H46.0Q68.0 12.0 68.0 34.0V66.0Q68.0 88.0 46.0 88.0H34.0Q12.0 88.0 12.0 66.0V34.0Q12.0 12.0 34.0 12.0Z"/>
+<path transform="translate(462.0 0)" d="M52.0 12.0L12.0 12.0L12.0 88.0"/>
+<path transform="translate(462.0 0)" d="M12.0 50.0L44.0 50.0"/>
+<path transform="translate(540.0 0)" d="M12.0 88.0L12.0 12.0"/>
+<path transform="translate(540.0 0)" d="M40.0 52.0L62.0 88.0"/>
+<path transform="translate(540.0 0)" d="M12.0 52H44.0Q62.0 52 62.0 34V30.0Q62.0 12.0 44.0 12.0H12.0"/>
+<path transform="translate(628.0 0)" d="M13.0 12.0L13.0 88.0"/>
+<path transform="translate(668.0 0)" d="M54.0 12.0L12.0 12.0L12.0 88.0L54.0 88.0"/>
+<path transform="translate(668.0 0)" d="M12.0 50.0L48.0 50.0"/>
+<path transform="translate(748.0 0)" d="M12.0 88.0L12.0 12.0L66.0 88.0L66.0 12.0"/>
+<path transform="translate(840.0 0)" d="M12.0 12.0H40.0Q66.0 12.0 66.0 38.0V62.0Q66.0 88.0 40.0 88.0H12.0Z"/>
+</g>
+<g fill="none" stroke="#000000" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="butt">
+<path transform="translate(0.0 0)" d="M12.0 0.0L12.0 100.0"/>
+<path transform="translate(0.0 0)" d="M62.0 0.0L62.0 100.0"/>
+<path transform="translate(0.0 0)" d="M0.0 50.0L74.0 50.0"/>
+<path transform="translate(88.0 0)" d="M66.0 12.0L12.0 12.0L12.0 88.0L66.0 88.0"/>
+<path transform="translate(88.0 0)" d="M0.0 50.0L60.0 50.0"/>
+<path transform="translate(168.0 0)" d="M12.0 0.0L12.0 88.0L62.0 88.0"/>
+<path transform="translate(244.0 0)" d="M12.0 0.0L12.0 88.0L62.0 88.0"/>
+<path transform="translate(320.0 0)" d="M34.0 12.0H46.0Q68.0 12.0 68.0 34.0V66.0Q68.0 88.0 46.0 88.0H34.0Q12.0 88.0 12.0 66.0V34.0Q12.0 12.0 34.0 12.0Z"/>
+<path transform="translate(462.0 0)" d="M64.0 12.0L12.0 12.0L12.0 100.0"/>
+<path transform="translate(462.0 0)" d="M0.0 50.0L56.0 50.0"/>
+<path transform="translate(540.0 0)" d="M12.0 100.0L12.0 -0.0"/>
+<path transform="translate(540.0 0)" d="M33.7 41.8L68.3 98.2"/>
+<path transform="translate(540.0 0)" d="M12.0 52H44.0Q62.0 52 62.0 34V30.0Q62.0 12.0 44.0 12.0H12.0"/>
+<path transform="translate(628.0 0)" d="M13.0 0.0L13.0 100.0"/>
+<path transform="translate(668.0 0)" d="M66.0 12.0L12.0 12.0L12.0 88.0L66.0 88.0"/>
+<path transform="translate(668.0 0)" d="M0.0 50.0L60.0 50.0"/>
+<path transform="translate(748.0 0)" d="M12.0 100.0L12.0 12.0L66.0 88.0L66.0 0.0"/>
+<path transform="translate(840.0 0)" d="M12.0 12.0H40.0Q66.0 12.0 66.0 38.0V62.0Q66.0 88.0 40.0 88.0H12.0Z"/>
+</g></g></g>
+</g>
+<g clip-path="url(#g0)" opacity="0"><g transform="translate(46.0 92.0) scale(0.8496732026143791)" >
+<clipPath id="box2"><rect x="-50" y="0" width="1018" height="100"/></clipPath>
+<g clip-path="url(#box2)">
+<g fill="none" stroke="#e3131b" stroke-width="24" stroke-linejoin="round" stroke-linecap="square">
+<path transform="translate(0.0 0)" d="M12.0 12.0L12.0 88.0"/>
+<path transform="translate(0.0 0)" d="M62.0 12.0L62.0 88.0"/>
+<path transform="translate(0.0 0)" d="M12.0 50.0L62.0 50.0"/>
+<path transform="translate(88.0 0)" d="M54.0 12.0L12.0 12.0L12.0 88.0L54.0 88.0"/>
+<path transform="translate(88.0 0)" d="M12.0 50.0L48.0 50.0"/>
+<path transform="translate(168.0 0)" d="M12.0 12.0L12.0 88.0L50.0 88.0"/>
+<path transform="translate(244.0 0)" d="M12.0 12.0L12.0 88.0L50.0 88.0"/>
+<path transform="translate(320.0 0)" d="M34.0 12.0H46.0Q68.0 12.0 68.0 34.0V66.0Q68.0 88.0 46.0 88.0H34.0Q12.0 88.0 12.0 66.0V34.0Q12.0 12.0 34.0 12.0Z"/>
+<path transform="translate(462.0 0)" d="M52.0 12.0L12.0 12.0L12.0 88.0"/>
+<path transform="translate(462.0 0)" d="M12.0 50.0L44.0 50.0"/>
+<path transform="translate(540.0 0)" d="M12.0 88.0L12.0 12.0"/>
+<path transform="translate(540.0 0)" d="M40.0 52.0L62.0 88.0"/>
+<path transform="translate(540.0 0)" d="M12.0 52H44.0Q62.0 52 62.0 34V30.0Q62.0 12.0 44.0 12.0H12.0"/>
+<path transform="translate(628.0 0)" d="M13.0 12.0L13.0 88.0"/>
+<path transform="translate(668.0 0)" d="M54.0 12.0L12.0 12.0L12.0 88.0L54.0 88.0"/>
+<path transform="translate(668.0 0)" d="M12.0 50.0L48.0 50.0"/>
+<path transform="translate(748.0 0)" d="M12.0 88.0L12.0 12.0L66.0 88.0L66.0 12.0"/>
+<path transform="translate(840.0 0)" d="M12.0 12.0H40.0Q66.0 12.0 66.0 38.0V62.0Q66.0 88.0 40.0 88.0H12.0Z"/>
+</g>
+<g fill="none" stroke="#000000" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="butt">
+<path transform="translate(0.0 0)" d="M12.0 0.0L12.0 100.0"/>
+<path transform="translate(0.0 0)" d="M62.0 0.0L62.0 100.0"/>
+<path transform="translate(0.0 0)" d="M0.0 50.0L74.0 50.0"/>
+<path transform="translate(88.0 0)" d="M66.0 12.0L12.0 12.0L12.0 88.0L66.0 88.0"/>
+<path transform="translate(88.0 0)" d="M0.0 50.0L60.0 50.0"/>
+<path transform="translate(168.0 0)" d="M12.0 0.0L12.0 88.0L62.0 88.0"/>
+<path transform="translate(244.0 0)" d="M12.0 0.0L12.0 88.0L62.0 88.0"/>
+<path transform="translate(320.0 0)" d="M34.0 12.0H46.0Q68.0 12.0 68.0 34.0V66.0Q68.0 88.0 46.0 88.0H34.0Q12.0 88.0 12.0 66.0V34.0Q12.0 12.0 34.0 12.0Z"/>
+<path transform="translate(462.0 0)" d="M64.0 12.0L12.0 12.0L12.0 100.0"/>
+<path transform="translate(462.0 0)" d="M0.0 50.0L56.0 50.0"/>
+<path transform="translate(540.0 0)" d="M12.0 100.0L12.0 -0.0"/>
+<path transform="translate(540.0 0)" d="M33.7 41.8L68.3 98.2"/>
+<path transform="translate(540.0 0)" d="M12.0 52H44.0Q62.0 52 62.0 34V30.0Q62.0 12.0 44.0 12.0H12.0"/>
+<path transform="translate(628.0 0)" d="M13.0 0.0L13.0 100.0"/>
+<path transform="translate(668.0 0)" d="M66.0 12.0L12.0 12.0L12.0 88.0L66.0 88.0"/>
+<path transform="translate(668.0 0)" d="M0.0 50.0L60.0 50.0"/>
+<path transform="translate(748.0 0)" d="M12.0 100.0L12.0 12.0L66.0 88.0L66.0 0.0"/>
+<path transform="translate(840.0 0)" d="M12.0 12.0H40.0Q66.0 12.0 66.0 38.0V62.0Q66.0 88.0 40.0 88.0H12.0Z"/>
+</g></g></g><animate attributeName="opacity" values="0;0;1;0;1;0;0" keyTimes="0;0.86;0.87;0.88;0.9;0.91;1" dur="7s" begin="2.40s" repeatCount="indefinite"/></g><g clip-path="url(#g1)" opacity="0"><g transform="translate(78.0 92.0) scale(0.8496732026143791)" >
+<clipPath id="box3"><rect x="-50" y="0" width="1018" height="100"/></clipPath>
+<g clip-path="url(#box3)">
+<g fill="none" stroke="#f2f2f2" stroke-width="24" stroke-linejoin="round" stroke-linecap="square">
+<path transform="translate(0.0 0)" d="M12.0 12.0L12.0 88.0"/>
+<path transform="translate(0.0 0)" d="M62.0 12.0L62.0 88.0"/>
+<path transform="translate(0.0 0)" d="M12.0 50.0L62.0 50.0"/>
+<path transform="translate(88.0 0)" d="M54.0 12.0L12.0 12.0L12.0 88.0L54.0 88.0"/>
+<path transform="translate(88.0 0)" d="M12.0 50.0L48.0 50.0"/>
+<path transform="translate(168.0 0)" d="M12.0 12.0L12.0 88.0L50.0 88.0"/>
+<path transform="translate(244.0 0)" d="M12.0 12.0L12.0 88.0L50.0 88.0"/>
+<path transform="translate(320.0 0)" d="M34.0 12.0H46.0Q68.0 12.0 68.0 34.0V66.0Q68.0 88.0 46.0 88.0H34.0Q12.0 88.0 12.0 66.0V34.0Q12.0 12.0 34.0 12.0Z"/>
+<path transform="translate(462.0 0)" d="M52.0 12.0L12.0 12.0L12.0 88.0"/>
+<path transform="translate(462.0 0)" d="M12.0 50.0L44.0 50.0"/>
+<path transform="translate(540.0 0)" d="M12.0 88.0L12.0 12.0"/>
+<path transform="translate(540.0 0)" d="M40.0 52.0L62.0 88.0"/>
+<path transform="translate(540.0 0)" d="M12.0 52H44.0Q62.0 52 62.0 34V30.0Q62.0 12.0 44.0 12.0H12.0"/>
+<path transform="translate(628.0 0)" d="M13.0 12.0L13.0 88.0"/>
+<path transform="translate(668.0 0)" d="M54.0 12.0L12.0 12.0L12.0 88.0L54.0 88.0"/>
+<path transform="translate(668.0 0)" d="M12.0 50.0L48.0 50.0"/>
+<path transform="translate(748.0 0)" d="M12.0 88.0L12.0 12.0L66.0 88.0L66.0 12.0"/>
+<path transform="translate(840.0 0)" d="M12.0 12.0H40.0Q66.0 12.0 66.0 38.0V62.0Q66.0 88.0 40.0 88.0H12.0Z"/>
+</g>
+<g fill="none" stroke="#000000" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="butt">
+<path transform="translate(0.0 0)" d="M12.0 0.0L12.0 100.0"/>
+<path transform="translate(0.0 0)" d="M62.0 0.0L62.0 100.0"/>
+<path transform="translate(0.0 0)" d="M0.0 50.0L74.0 50.0"/>
+<path transform="translate(88.0 0)" d="M66.0 12.0L12.0 12.0L12.0 88.0L66.0 88.0"/>
+<path transform="translate(88.0 0)" d="M0.0 50.0L60.0 50.0"/>
+<path transform="translate(168.0 0)" d="M12.0 0.0L12.0 88.0L62.0 88.0"/>
+<path transform="translate(244.0 0)" d="M12.0 0.0L12.0 88.0L62.0 88.0"/>
+<path transform="translate(320.0 0)" d="M34.0 12.0H46.0Q68.0 12.0 68.0 34.0V66.0Q68.0 88.0 46.0 88.0H34.0Q12.0 88.0 12.0 66.0V34.0Q12.0 12.0 34.0 12.0Z"/>
+<path transform="translate(462.0 0)" d="M64.0 12.0L12.0 12.0L12.0 100.0"/>
+<path transform="translate(462.0 0)" d="M0.0 50.0L56.0 50.0"/>
+<path transform="translate(540.0 0)" d="M12.0 100.0L12.0 -0.0"/>
+<path transform="translate(540.0 0)" d="M33.7 41.8L68.3 98.2"/>
+<path transform="translate(540.0 0)" d="M12.0 52H44.0Q62.0 52 62.0 34V30.0Q62.0 12.0 44.0 12.0H12.0"/>
+<path transform="translate(628.0 0)" d="M13.0 0.0L13.0 100.0"/>
+<path transform="translate(668.0 0)" d="M66.0 12.0L12.0 12.0L12.0 88.0L66.0 88.0"/>
+<path transform="translate(668.0 0)" d="M0.0 50.0L60.0 50.0"/>
+<path transform="translate(748.0 0)" d="M12.0 100.0L12.0 12.0L66.0 88.0L66.0 0.0"/>
+<path transform="translate(840.0 0)" d="M12.0 12.0H40.0Q66.0 12.0 66.0 38.0V62.0Q66.0 88.0 40.0 88.0H12.0Z"/>
+</g></g></g><animate attributeName="opacity" values="0;0;1;0;1;0;0" keyTimes="0;0.86;0.87;0.88;0.9;0.91;1" dur="7s" begin="2.43s" repeatCount="indefinite"/></g><g clip-path="url(#g2)" opacity="0"><g transform="translate(52.0 92.0) scale(0.8496732026143791)" >
+<clipPath id="box4"><rect x="-50" y="0" width="1018" height="100"/></clipPath>
+<g clip-path="url(#box4)">
+<g fill="none" stroke="#e3131b" stroke-width="24" stroke-linejoin="round" stroke-linecap="square">
+<path transform="translate(0.0 0)" d="M12.0 12.0L12.0 88.0"/>
+<path transform="translate(0.0 0)" d="M62.0 12.0L62.0 88.0"/>
+<path transform="translate(0.0 0)" d="M12.0 50.0L62.0 50.0"/>
+<path transform="translate(88.0 0)" d="M54.0 12.0L12.0 12.0L12.0 88.0L54.0 88.0"/>
+<path transform="translate(88.0 0)" d="M12.0 50.0L48.0 50.0"/>
+<path transform="translate(168.0 0)" d="M12.0 12.0L12.0 88.0L50.0 88.0"/>
+<path transform="translate(244.0 0)" d="M12.0 12.0L12.0 88.0L50.0 88.0"/>
+<path transform="translate(320.0 0)" d="M34.0 12.0H46.0Q68.0 12.0 68.0 34.0V66.0Q68.0 88.0 46.0 88.0H34.0Q12.0 88.0 12.0 66.0V34.0Q12.0 12.0 34.0 12.0Z"/>
+<path transform="translate(462.0 0)" d="M52.0 12.0L12.0 12.0L12.0 88.0"/>
+<path transform="translate(462.0 0)" d="M12.0 50.0L44.0 50.0"/>
+<path transform="translate(540.0 0)" d="M12.0 88.0L12.0 12.0"/>
+<path transform="translate(540.0 0)" d="M40.0 52.0L62.0 88.0"/>
+<path transform="translate(540.0 0)" d="M12.0 52H44.0Q62.0 52 62.0 34V30.0Q62.0 12.0 44.0 12.0H12.0"/>
+<path transform="translate(628.0 0)" d="M13.0 12.0L13.0 88.0"/>
+<path transform="translate(668.0 0)" d="M54.0 12.0L12.0 12.0L12.0 88.0L54.0 88.0"/>
+<path transform="translate(668.0 0)" d="M12.0 50.0L48.0 50.0"/>
+<path transform="translate(748.0 0)" d="M12.0 88.0L12.0 12.0L66.0 88.0L66.0 12.0"/>
+<path transform="translate(840.0 0)" d="M12.0 12.0H40.0Q66.0 12.0 66.0 38.0V62.0Q66.0 88.0 40.0 88.0H12.0Z"/>
+</g>
+<g fill="none" stroke="#000000" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="butt">
+<path transform="translate(0.0 0)" d="M12.0 0.0L12.0 100.0"/>
+<path transform="translate(0.0 0)" d="M62.0 0.0L62.0 100.0"/>
+<path transform="translate(0.0 0)" d="M0.0 50.0L74.0 50.0"/>
+<path transform="translate(88.0 0)" d="M66.0 12.0L12.0 12.0L12.0 88.0L66.0 88.0"/>
+<path transform="translate(88.0 0)" d="M0.0 50.0L60.0 50.0"/>
+<path transform="translate(168.0 0)" d="M12.0 0.0L12.0 88.0L62.0 88.0"/>
+<path transform="translate(244.0 0)" d="M12.0 0.0L12.0 88.0L62.0 88.0"/>
+<path transform="translate(320.0 0)" d="M34.0 12.0H46.0Q68.0 12.0 68.0 34.0V66.0Q68.0 88.0 46.0 88.0H34.0Q12.0 88.0 12.0 66.0V34.0Q12.0 12.0 34.0 12.0Z"/>
+<path transform="translate(462.0 0)" d="M64.0 12.0L12.0 12.0L12.0 100.0"/>
+<path transform="translate(462.0 0)" d="M0.0 50.0L56.0 50.0"/>
+<path transform="translate(540.0 0)" d="M12.0 100.0L12.0 -0.0"/>
+<path transform="translate(540.0 0)" d="M33.7 41.8L68.3 98.2"/>
+<path transform="translate(540.0 0)" d="M12.0 52H44.0Q62.0 52 62.0 34V30.0Q62.0 12.0 44.0 12.0H12.0"/>
+<path transform="translate(628.0 0)" d="M13.0 0.0L13.0 100.0"/>
+<path transform="translate(668.0 0)" d="M66.0 12.0L12.0 12.0L12.0 88.0L66.0 88.0"/>
+<path transform="translate(668.0 0)" d="M0.0 50.0L60.0 50.0"/>
+<path transform="translate(748.0 0)" d="M12.0 100.0L12.0 12.0L66.0 88.0L66.0 0.0"/>
+<path transform="translate(840.0 0)" d="M12.0 12.0H40.0Q66.0 12.0 66.0 38.0V62.0Q66.0 88.0 40.0 88.0H12.0Z"/>
+</g></g></g><animate attributeName="opacity" values="0;0;1;0;1;0;0" keyTimes="0;0.86;0.87;0.88;0.9;0.91;1" dur="7s" begin="2.46s" repeatCount="indefinite"/></g>
+<g opacity="0">
+  <set attributeName="opacity" to="1" begin="1.9s" fill="freeze"/>
+  <g transform="translate(286.2 211.0) scale(0.35686274509803917)" >
+<clipPath id="box1"><rect x="-50" y="0" width="1018" height="100"/></clipPath>
+<g clip-path="url(#box1)">
+<g fill="none" stroke="#4a0b0e" stroke-width="24" stroke-linejoin="round" stroke-linecap="square">
+<path transform="translate(0.0 0)" d="M12.0 12.0L12.0 88.0"/>
+<path transform="translate(0.0 0)" d="M62.0 12.0L62.0 88.0"/>
+<path transform="translate(0.0 0)" d="M12.0 50.0L62.0 50.0"/>
+<path transform="translate(88.0 0)" d="M54.0 12.0L12.0 12.0L12.0 88.0L54.0 88.0"/>
+<path transform="translate(88.0 0)" d="M12.0 50.0L48.0 50.0"/>
+<path transform="translate(168.0 0)" d="M12.0 12.0L12.0 88.0L50.0 88.0"/>
+<path transform="translate(244.0 0)" d="M12.0 12.0L12.0 88.0L50.0 88.0"/>
+<path transform="translate(320.0 0)" d="M34.0 12.0H46.0Q68.0 12.0 68.0 34.0V66.0Q68.0 88.0 46.0 88.0H34.0Q12.0 88.0 12.0 66.0V34.0Q12.0 12.0 34.0 12.0Z"/>
+<path transform="translate(462.0 0)" d="M52.0 12.0L12.0 12.0L12.0 88.0"/>
+<path transform="translate(462.0 0)" d="M12.0 50.0L44.0 50.0"/>
+<path transform="translate(540.0 0)" d="M12.0 88.0L12.0 12.0"/>
+<path transform="translate(540.0 0)" d="M40.0 52.0L62.0 88.0"/>
+<path transform="translate(540.0 0)" d="M12.0 52H44.0Q62.0 52 62.0 34V30.0Q62.0 12.0 44.0 12.0H12.0"/>
+<path transform="translate(628.0 0)" d="M13.0 12.0L13.0 88.0"/>
+<path transform="translate(668.0 0)" d="M54.0 12.0L12.0 12.0L12.0 88.0L54.0 88.0"/>
+<path transform="translate(668.0 0)" d="M12.0 50.0L48.0 50.0"/>
+<path transform="translate(748.0 0)" d="M12.0 88.0L12.0 12.0L66.0 88.0L66.0 12.0"/>
+<path transform="translate(840.0 0)" d="M12.0 12.0H40.0Q66.0 12.0 66.0 38.0V62.0Q66.0 88.0 40.0 88.0H12.0Z"/>
+</g>
+<g fill="none" stroke="#000000" stroke-width="4.5" stroke-linejoin="round" stroke-linecap="butt">
+<path transform="translate(0.0 0)" d="M12.0 0.0L12.0 100.0"/>
+<path transform="translate(0.0 0)" d="M62.0 0.0L62.0 100.0"/>
+<path transform="translate(0.0 0)" d="M0.0 50.0L74.0 50.0"/>
+<path transform="translate(88.0 0)" d="M66.0 12.0L12.0 12.0L12.0 88.0L66.0 88.0"/>
+<path transform="translate(88.0 0)" d="M0.0 50.0L60.0 50.0"/>
+<path transform="translate(168.0 0)" d="M12.0 0.0L12.0 88.0L62.0 88.0"/>
+<path transform="translate(244.0 0)" d="M12.0 0.0L12.0 88.0L62.0 88.0"/>
+<path transform="translate(320.0 0)" d="M34.0 12.0H46.0Q68.0 12.0 68.0 34.0V66.0Q68.0 88.0 46.0 88.0H34.0Q12.0 88.0 12.0 66.0V34.0Q12.0 12.0 34.0 12.0Z"/>
+<path transform="translate(462.0 0)" d="M64.0 12.0L12.0 12.0L12.0 100.0"/>
+<path transform="translate(462.0 0)" d="M0.0 50.0L56.0 50.0"/>
+<path transform="translate(540.0 0)" d="M12.0 100.0L12.0 -0.0"/>
+<path transform="translate(540.0 0)" d="M33.7 41.8L68.3 98.2"/>
+<path transform="translate(540.0 0)" d="M12.0 52H44.0Q62.0 52 62.0 34V30.0Q62.0 12.0 44.0 12.0H12.0"/>
+<path transform="translate(628.0 0)" d="M13.0 0.0L13.0 100.0"/>
+<path transform="translate(668.0 0)" d="M66.0 12.0L12.0 12.0L12.0 88.0L66.0 88.0"/>
+<path transform="translate(668.0 0)" d="M0.0 50.0L60.0 50.0"/>
+<path transform="translate(748.0 0)" d="M12.0 100.0L12.0 12.0L66.0 88.0L66.0 0.0"/>
+<path transform="translate(840.0 0)" d="M12.0 12.0H40.0Q66.0 12.0 66.0 38.0V62.0Q66.0 88.0 40.0 88.0H12.0Z"/>
+</g></g></g>
+</g>
+<text x="450.0" y="300" text-anchor="middle" font-family="'JetBrains Mono','Fira Code','SF Mono',Consolas,'DejaVu Sans Mono','Courier New',monospace" font-size="13" fill="#8a8a8a" opacity="0">boris@fsociety:~$ <tspan fill="#f2f2f2">wake_up --now</tspan>
+  <set attributeName="opacity" to="1" begin="2.4s" fill="freeze"/>
+</text>
+<rect width="900" height="330" fill="url(#scan)"/>
+</g>
+<rect x="1" y="1" width="898" height="328" rx="10" fill="none" stroke="#e3131b" stroke-opacity="0.35"/>
+</svg>

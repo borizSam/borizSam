@@ -9,7 +9,7 @@
 <text x="450.0" y="24" text-anchor="middle" font-size="13" fill="#8a8a8a">eterm — boris@fsociety: ~/stats</text>
 <text x="28" y="70"><tspan fill="#e3131b">eterm##$: </tspan><tspan fill="#f2f2f2">gh user stats borizSam</tspan></text>
 <text x="28" y="94" fill="#e3131b">repos publicos</text>
-<text x="220" y="94" fill="#f2f2f2">71</text>
+<text x="220" y="94" fill="#f2f2f2">72</text>
 <text x="28" y="118" fill="#e3131b">repos propios</text>
 <text x="220" y="118" fill="#f2f2f2">45</text>
 <text x="28" y="142" fill="#e3131b">stars recibidas</text>

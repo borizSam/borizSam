@@ -63,8 +63,8 @@ eterm##$: kubectl get deployments -n proyectos
 &nbsp;
 
 <!-- RECENT:START -->
+- `2026-11-09` [quarto-bedrock](https://github.com/borizSam/quarto-bedrock) · JavaScript
 - `2026-11-07` [repolocal](https://github.com/borizSam/repolocal) · Go
-- `2026-11-06` [quarto-bedrock](https://github.com/borizSam/quarto-bedrock) · JavaScript
 - `2026-11-04` [skills-review-pull-requests](https://github.com/borizSam/skills-review-pull-requests) · HTML
 - `2026-10-03` [pokemon-fastapi](https://github.com/borizSam/pokemon-fastapi) · Python
 - `2026-06-15` [pokeAPI](https://github.com/borizSam/pokeAPI) · JavaScript

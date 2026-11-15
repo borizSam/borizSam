@@ -17,7 +17,7 @@
 <text x="28" y="166" fill="#e3131b">followers</text>
 <text x="220" y="166" fill="#f2f2f2">9</text>
 <text x="28" y="190" fill="#e3131b">following</text>
-<text x="220" y="190" fill="#f2f2f2">12</text>
+<text x="220" y="190" fill="#f2f2f2">13</text>
 <text x="28" y="230"><tspan fill="#e3131b">eterm##$: </tspan><tspan fill="#f2f2f2">gh repo langs --top 6</tspan></text>
 <text x="28" y="254" fill="#c9c9c9">JavaScript</text>
 <rect x="220" y="242" width="420" height="12" rx="2" fill="#2a0608"/>

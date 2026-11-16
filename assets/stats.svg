@@ -9,11 +9,11 @@
 <text x="450.0" y="24" text-anchor="middle" font-size="13" fill="#8a8a8a">eterm — boris@fsociety: ~/stats</text>
 <text x="28" y="70"><tspan fill="#e3131b">eterm##$: </tspan><tspan fill="#f2f2f2">gh user stats borizSam</tspan></text>
 <text x="28" y="94" fill="#e3131b">repos publicos</text>
-<text x="220" y="94" fill="#f2f2f2">72</text>
+<text x="220" y="94" fill="#f2f2f2">74</text>
 <text x="28" y="118" fill="#e3131b">repos propios</text>
-<text x="220" y="118" fill="#f2f2f2">45</text>
+<text x="220" y="118" fill="#f2f2f2">46</text>
 <text x="28" y="142" fill="#e3131b">stars recibidas</text>
-<text x="220" y="142" fill="#f2f2f2">7</text>
+<text x="220" y="142" fill="#f2f2f2">8</text>
 <text x="28" y="166" fill="#e3131b">followers</text>
 <text x="220" y="166" fill="#f2f2f2">9</text>
 <text x="28" y="190" fill="#e3131b">following</text>
@@ -21,27 +21,27 @@
 <text x="28" y="230"><tspan fill="#e3131b">eterm##$: </tspan><tspan fill="#f2f2f2">gh repo langs --top 6</tspan></text>
 <text x="28" y="254" fill="#c9c9c9">JavaScript</text>
 <rect x="220" y="242" width="420" height="12" rx="2" fill="#2a0608"/>
-<rect x="220" y="242" width="102.2" height="12" rx="2" fill="#e3131b"/>
+<rect x="220" y="242" width="99.5" height="12" rx="2" fill="#e3131b"/>
 <text x="654" y="254" fill="#8a8a8a">24%  (9)</text>
 <text x="28" y="278" fill="#c9c9c9">Python</text>
 <rect x="220" y="266" width="420" height="12" rx="2" fill="#2a0608"/>
-<rect x="220" y="266" width="90.8" height="12" rx="2" fill="#e3131b"/>
-<text x="654" y="278" fill="#8a8a8a">22%  (8)</text>
+<rect x="220" y="266" width="88.4" height="12" rx="2" fill="#e3131b"/>
+<text x="654" y="278" fill="#8a8a8a">21%  (8)</text>
 <text x="28" y="302" fill="#c9c9c9">Shell</text>
 <rect x="220" y="290" width="420" height="12" rx="2" fill="#2a0608"/>
-<rect x="220" y="290" width="45.4" height="12" rx="2" fill="#e3131b"/>
+<rect x="220" y="290" width="44.2" height="12" rx="2" fill="#e3131b"/>
 <text x="654" y="302" fill="#8a8a8a">11%  (4)</text>
 <text x="28" y="326" fill="#c9c9c9">CSS</text>
 <rect x="220" y="314" width="420" height="12" rx="2" fill="#2a0608"/>
-<rect x="220" y="314" width="45.4" height="12" rx="2" fill="#e3131b"/>
+<rect x="220" y="314" width="44.2" height="12" rx="2" fill="#e3131b"/>
 <text x="654" y="326" fill="#8a8a8a">11%  (4)</text>
 <text x="28" y="350" fill="#c9c9c9">HTML</text>
 <rect x="220" y="338" width="420" height="12" rx="2" fill="#2a0608"/>
-<rect x="220" y="338" width="45.4" height="12" rx="2" fill="#e3131b"/>
+<rect x="220" y="338" width="44.2" height="12" rx="2" fill="#e3131b"/>
 <text x="654" y="350" fill="#8a8a8a">11%  (4)</text>
 <text x="28" y="374" fill="#c9c9c9">Java</text>
 <rect x="220" y="362" width="420" height="12" rx="2" fill="#2a0608"/>
-<rect x="220" y="362" width="22.7" height="12" rx="2" fill="#e3131b"/>
+<rect x="220" y="362" width="22.1" height="12" rx="2" fill="#e3131b"/>
 <text x="654" y="374" fill="#8a8a8a">5%  (2)</text>
 <text x="28" y="410" fill="#e3131b">eterm##$:</text>
 <rect x="124" y="396" width="9" height="17" fill="#f2f2f2"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></rect>

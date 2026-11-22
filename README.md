@@ -133,8 +133,8 @@ Si lo resuelves, ya sabes dónde encontrarme.
   <a href="mailto:bhuarachiperez@gmail.com">
     <img src="https://img.shields.io/badge/mail-000000?style=flat-square&logo=gmail&logoColor=e3131b" alt="Email">
   </a>
-  <a href="https://www.borisdevops.com">
-    <img src="https://img.shields.io/badge/borisdevops.com-000000?style=flat-square&logo=googlechrome&logoColor=e3131b" alt="Web">
+  <a href="https://borizsam.github.io/">
+    <img src="https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=googlechrome&logoColor=e3131b" alt="Portfolio">
   </a>
 </p>
 

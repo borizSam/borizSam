@@ -6,7 +6,7 @@
 &nbsp;
 
 <div align="center">
-  <img src="assets/readme.svg" width="100%" alt="eterm##$: more readme.txt — Hola, soy Boris. DevOps Engineer en OCA Global: Terraform, Jenkins, Bitbucket, AWS, Azure y GCP, con Zabbix y Grafana para monitorizar. Estudio Ingeniería Informática en la UOC.">
+  <img src="assets/readme.svg" width="100%" alt="eterm##$: more readme.txt — Hi, I’m Boris. DevOps Engineer at OCA Global: Terraform, Jenkins, Bitbucket, AWS, Azure and GCP, with Zabbix and Grafana for monitoring. Computer Engineering student at UOC.">
 </div>
 
 <p align="center">
@@ -33,14 +33,14 @@ eterm##$: cat whoami.yml
 name:    Boris Ivan Huarachi Pérez
 role:    DevOps Engineer @ OCA Global
 base:    Barcelona
-study:   Ingeniería Informática · UOC (en curso)
+study:   Computer Engineering · UOC (in progress)
 cert:    AWS Cloud Practitioner · AWS re/Start
 next:    AWS Solutions Architect Associate
 stack:   Terraform · Jenkins · Bitbucket · AWS · Azure · GCP
 ops:     Zabbix · Grafana · Ansible · Docker · Kubernetes
 ```
 
-Automatizo despliegues, CI/CD e infraestructura como código, y monitorizo lo que despliego. Vengo de administrar sistemas Linux, Windows y VMware en producción, y lo que más me gusta es quitarle trabajo manual a los equipos.
+I automate deployments, CI/CD and infrastructure as code, and I monitor what I ship. I come from running Linux, Windows and VMware systems in production, and what I enjoy most is taking manual work off teams’ hands.
 
 ## ~/portfolio
 
@@ -49,7 +49,7 @@ Automatizo despliegues, CI/CD e infraestructura como código, y monitorizo lo qu
   <a href="https://borizsam.github.io/assets/cv.pdf"><img src="https://img.shields.io/badge/CV-descargar-000000?style=flat-square&logo=adobeacrobatreader&logoColor=e3131b" alt="CV"></a>
 </p>
 
-<sub>Web con mi trayectoria, proyectos y CV, en modo terminal. Publicada con GitHub Pages desde este mismo ecosistema.</sub>
+<sub>My work, projects and CV in a terminal-style site, published with GitHub Pages.</sub>
 
 ## ~/projects
 
@@ -57,15 +57,15 @@ Automatizo despliegues, CI/CD e infraestructura como código, y monitorizo lo qu
 eterm##$: kubectl get deployments -n proyectos
 ```
 
-| NAME | STACK | QUÉ HACE |
+| NAME | STACK | WHAT IT DOES |
 |------|-------|----------|
-| [astro-care](https://github.com/borizSam/astro-care) | TypeScript · Real-time · NEWS2 | Monitorización de salud offline para astronautas Artemis (NASA Space Apps 2026): constantes en vivo y test GO / NO-GO. |
-| [quarto-bedrock](https://github.com/borizSam/quarto-bedrock) | AWS Lambda · Bedrock · Quarto · GitHub Actions | Pipeline diario que genera un post DevOps con IA y lo publica en GitHub Pages. |
-| [Aeropuerto-infra](https://github.com/borizSam/Aeropuerto-infra) | AWS ECS Fargate · Docker · GitHub Actions | Infra y CI/CD del sistema Aeropuerto: backend Spring Boot y frontend React en Fargate. |
-| [ci-cd-python-test-automation](https://github.com/borizSam/ci-cd-python-test-automation) | Python · Docker · GitHub Actions | Pipeline que valida cada commit con tests automáticos: *shift-left testing*. |
-| [pokemon-fastapi](https://github.com/borizSam/pokemon-fastapi) | FastAPI · Docker · pytest | API REST con CRUD, filtros y Swagger, tests en CI y lista para contenedor. |
-| [AWS-Re_Start](https://github.com/borizSam/AWS-Re_Start) | Quarto · GitHub Pages | Mis apuntes y laboratorios del programa AWS re/Start: nube, Linux, redes, seguridad. |
-| [RoadMapDevOps](https://github.com/borizSam/RoadMapDevOps) | Quarto · GitHub Actions · Pages | Mi roadmap DevOps, renderizado y desplegado solo en cada push. |
+| [astro-care](https://github.com/borizSam/astro-care) | TypeScript · Real-time · NEWS2 | Offline health monitoring for Artemis astronauts (NASA Space Apps 2026): live vitals and a GO / NO-GO test. |
+| [quarto-bedrock](https://github.com/borizSam/quarto-bedrock) | AWS Lambda · Bedrock · Quarto · GitHub Actions | Daily pipeline that generates a DevOps post with AI and publishes it to GitHub Pages. |
+| [Aeropuerto-infra](https://github.com/borizSam/Aeropuerto-infra) | AWS ECS Fargate · Docker · GitHub Actions | Infra and CI/CD for the Aeropuerto system: Spring Boot backend and React frontend on Fargate. |
+| [ci-cd-python-test-automation](https://github.com/borizSam/ci-cd-python-test-automation) | Python · Docker · GitHub Actions | Pipeline that validates every commit with automated tests: *shift-left testing*. |
+| [pokemon-fastapi](https://github.com/borizSam/pokemon-fastapi) | FastAPI · Docker · pytest | REST API with CRUD, filters and Swagger, tests in CI and ready for a container. |
+| [AWS-Re_Start](https://github.com/borizSam/AWS-Re_Start) | Quarto · GitHub Pages | My notes and labs from the AWS re/Start program: cloud, Linux, networking, security. |
+| [RoadMapDevOps](https://github.com/borizSam/RoadMapDevOps) | Quarto · GitHub Actions · Pages | My DevOps roadmap, rendered and deployed on every push. |
 
 &nbsp;
 
@@ -77,7 +77,7 @@ eterm##$: kubectl get deployments -n proyectos
 
 <div align="center">
   <a href="https://github.com/borizSam?tab=repositories">
-    <img src="assets/stats.svg" width="100%" alt="GitHub stats de borizSam: repositorios, stars y lenguajes principales. Se regenera cada día con GitHub Actions.">
+    <img src="assets/stats.svg" width="100%" alt="GitHub stats for borizSam: repositories, stars and main languages. Regenerated daily with GitHub Actions.">
   </a>
 </div>
 
@@ -88,7 +88,7 @@ eterm##$: kubectl get deployments -n proyectos
 </div>
 
 <details>
-<summary><code>eterm##$: ls -lt ~/repos | head -5</code> · últimos pushes</summary>
+<summary><code>eterm##$: ls -lt ~/repos | head -5</code> · latest pushes</summary>
 
 &nbsp;
 
@@ -100,7 +100,7 @@ eterm##$: kubectl get deployments -n proyectos
 - `2026-10-03` [pokemon-fastapi](https://github.com/borizSam/pokemon-fastapi) · Python
 <!-- RECENT:END -->
 
-<sub>Esta lista, <code>stats.svg</code> y la serpiente las regenera cada día un <a href=".github/workflows/profile.yml">workflow</a>. Si hay que tocarlo a mano dos veces, se automatiza.</sub>
+<sub>This list, <code>stats.svg</code> and the snake are regenerated every day by a <a href=".github/workflows/profile.yml">workflow</a>. If it has to be touched by hand twice, it gets automated.</sub>
 </details>
 
 ## ~/access
@@ -114,15 +114,15 @@ eterm##$: ssh friend@boris
 Permission denied (publickey).
 ```
 
-Hay un mensaje para quien llegue hasta aquí. No es difícil, pero tampoco regalado.
+There is a message for whoever gets this far. It is not hard, but it is not free either.
 
 ```text
 Y2FwYSAyLzIgLT4gcm90MTM6IE5QUFJGRiBURU5BR1JRLiByZnBldm9yenIgcGJhIHJ5IG5maGFnYiBbdXJ5eWJfc2V2cmFxXSBsIHBocmFnbnpyIHBiemIgeWIgZXJmYnlpdmZnci4=
 ```
 
-<sub>capa 1/2 · pista: lo que ves termina en <code>=</code>, y eso no es casualidad.</sub>
+<sub>layer 1/2 · hint: what you see ends in <code>=</code>, and that is no coincidence.</sub>
 
-Si lo resuelves, ya sabes dónde encontrarme.
+If you solve it, you know where to find me.
 
 ## ~/contact
 
@@ -140,5 +140,5 @@ Si lo resuelves, ya sabes dónde encontrarme.
 
 ---
 
-<sub><code>// control is an illusion. la automatización, no.</code></sub>
+<sub><code>// control is an illusion. automation is not.</code></sub>
 <img align="right" src="https://komarev.com/ghpvc/?username=borizSam&label=conexiones&color=e3131b&style=flat-square" alt="Contador de visitas del perfil">

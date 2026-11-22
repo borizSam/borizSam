@@ -6,21 +6,50 @@
 &nbsp;
 
 <div align="center">
-  <img src="assets/readme.svg" width="100%" alt="eterm##$: more readme.txt — Hola, soy Boris. Cloud &amp; DevOps engineer en Barcelona. Trabajo como DevOps en OCA GLOBAL (Ansible, Jenkins, Zabbix, Azure), estudio Ingeniería Informática en la UOC y preparo AWS Solutions Architect Associate.">
+  <img src="assets/readme.svg" width="100%" alt="eterm##$: more readme.txt — Hola, soy Boris. DevOps Engineer en OCA Global: Terraform, Jenkins, Bitbucket, AWS, Azure y GCP, con Zabbix y Grafana para monitorizar. Estudio Ingeniería Informática en la UOC.">
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2UzMTMxYiIgZD0iTTYuNSAxOWgxMWE0LjUgNC41IDAgMCAwIC42LTguOTZBNi41IDYuNSAwIDAgMCA1LjYgOC42IDUuMiA1LjIgMCAwIDAgNi41IDE5eiIvPjwvc3ZnPgo=" alt="AWS">
-  <img src="https://img.shields.io/badge/Kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=e3131b" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=e3131b" alt="Docker">
+  <img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=e3131b" alt="AWS">
+  <img src="https://img.shields.io/badge/Azure-000000?style=flat-square&logo=microsoftazure&logoColor=e3131b" alt="Azure">
+  <img src="https://img.shields.io/badge/GCP-000000?style=flat-square&logo=googlecloud&logoColor=e3131b" alt="GCP">
   <img src="https://img.shields.io/badge/Terraform-000000?style=flat-square&logo=terraform&logoColor=e3131b" alt="Terraform">
-  <img src="https://img.shields.io/badge/Ansible-000000?style=flat-square&logo=ansible&logoColor=e3131b" alt="Ansible">
   <img src="https://img.shields.io/badge/Jenkins-000000?style=flat-square&logo=jenkins&logoColor=e3131b" alt="Jenkins">
+  <img src="https://img.shields.io/badge/Bitbucket-000000?style=flat-square&logo=bitbucket&logoColor=e3131b" alt="Bitbucket">
   <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=e3131b" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=e3131b" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=e3131b" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Ansible-000000?style=flat-square&logo=ansible&logoColor=e3131b" alt="Ansible">
+  <img src="https://img.shields.io/badge/Zabbix-000000?style=flat-square&logo=zabbix&logoColor=e3131b" alt="Zabbix">
+  <img src="https://img.shields.io/badge/Grafana-000000?style=flat-square&logo=grafana&logoColor=e3131b" alt="Grafana">
   <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=e3131b" alt="Linux">
-  <img src="https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnubash&logoColor=e3131b" alt="Bash">
   <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=e3131b" alt="Python">
 </p>
+
+## ~/whoami
+
+```console
+eterm##$: cat whoami.yml
+name:    Boris Ivan Huarachi Pérez
+role:    DevOps Engineer @ OCA Global
+base:    Barcelona
+study:   Ingeniería Informática · UOC (en curso)
+cert:    AWS Cloud Practitioner · AWS re/Start
+next:    AWS Solutions Architect Associate
+stack:   Terraform · Jenkins · Bitbucket · AWS · Azure · GCP
+ops:     Zabbix · Grafana · Ansible · Docker · Kubernetes
+```
+
+Automatizo despliegues, CI/CD e infraestructura como código, y monitorizo lo que despliego. Vengo de administrar sistemas Linux, Windows y VMware en producción, y lo que más me gusta es quitarle trabajo manual a los equipos.
+
+## ~/portfolio
+
+<p>
+  <a href="https://borizsam.github.io/"><img src="https://img.shields.io/badge/portfolio-borizsam.github.io-000000?style=flat-square&logo=githubpages&logoColor=e3131b" alt="Portfolio"></a>
+  <a href="https://borizsam.github.io/assets/cv.pdf"><img src="https://img.shields.io/badge/CV-descargar-000000?style=flat-square&logo=adobeacrobatreader&logoColor=e3131b" alt="CV"></a>
+</p>
+
+<sub>Web con mi trayectoria, proyectos y CV, en modo terminal. Publicada con GitHub Pages desde este mismo ecosistema.</sub>
 
 ## ~/projects
 
@@ -30,12 +59,13 @@ eterm##$: kubectl get deployments -n proyectos
 
 | NAME | STACK | QUÉ HACE |
 |------|-------|----------|
-| [Aeropuerto-infra](https://github.com/borizSam/Aeropuerto-infra) | AWS ECS Fargate · Docker · GitHub Actions | Infra y CI/CD del sistema Aeropuerto: backend Spring Boot y frontend React desplegados en Fargate. |
+| [astro-care](https://github.com/borizSam/astro-care) | TypeScript · Real-time · NEWS2 | Monitorización de salud offline para astronautas Artemis (NASA Space Apps 2026): constantes en vivo y test GO / NO-GO. |
+| [quarto-bedrock](https://github.com/borizSam/quarto-bedrock) | AWS Lambda · Bedrock · Quarto · GitHub Actions | Pipeline diario que genera un post DevOps con IA y lo publica en GitHub Pages. |
+| [Aeropuerto-infra](https://github.com/borizSam/Aeropuerto-infra) | AWS ECS Fargate · Docker · GitHub Actions | Infra y CI/CD del sistema Aeropuerto: backend Spring Boot y frontend React en Fargate. |
 | [ci-cd-python-test-automation](https://github.com/borizSam/ci-cd-python-test-automation) | Python · Docker · GitHub Actions | Pipeline que valida cada commit con tests automáticos: *shift-left testing*. |
 | [pokemon-fastapi](https://github.com/borizSam/pokemon-fastapi) | FastAPI · Docker · pytest | API REST con CRUD, filtros y Swagger, tests en CI y lista para contenedor. |
 | [AWS-Re_Start](https://github.com/borizSam/AWS-Re_Start) | Quarto · GitHub Pages | Mis apuntes y laboratorios del programa AWS re/Start: nube, Linux, redes, seguridad. |
 | [RoadMapDevOps](https://github.com/borizSam/RoadMapDevOps) | Quarto · GitHub Actions · Pages | Mi roadmap DevOps, renderizado y desplegado solo en cada push. |
-| [Stats-Server](https://github.com/borizSam/Stats-Server) | Bash · Linux | Script que saca las métricas básicas de un servidor: CPU, memoria, disco, procesos. |
 
 &nbsp;
 

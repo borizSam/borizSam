@@ -93,11 +93,11 @@ eterm##$: kubectl get deployments -n proyectos
 &nbsp;
 
 <!-- RECENT:START -->
+- `2026-11-22` [borizSam.github.io](https://github.com/borizSam/borizSam.github.io) · CSS
 - `2026-11-21` [repolocal](https://github.com/borizSam/repolocal) · Go
 - `2026-11-20` [quarto-bedrock](https://github.com/borizSam/quarto-bedrock) · JavaScript
 - `2026-11-15` [astro-care](https://github.com/borizSam/astro-care) · TypeScript
 - `2026-11-04` [skills-review-pull-requests](https://github.com/borizSam/skills-review-pull-requests) · HTML
-- `2026-10-03` [pokemon-fastapi](https://github.com/borizSam/pokemon-fastapi) · Python
 <!-- RECENT:END -->
 
 <sub>This list, <code>stats.svg</code> and the snake are regenerated every day by a <a href=".github/workflows/profile.yml">workflow</a>. If it has to be touched by hand twice, it gets automated.</sub>

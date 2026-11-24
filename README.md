@@ -93,9 +93,9 @@ eterm##$: kubectl get deployments -n proyectos
 &nbsp;
 
 <!-- RECENT:START -->
-- `2026-11-22` [borizSam.github.io](https://github.com/borizSam/borizSam.github.io) · CSS
+- `2026-11-24` [quarto-bedrock](https://github.com/borizSam/quarto-bedrock) · JavaScript
+- `2026-11-23` [borizSam.github.io](https://github.com/borizSam/borizSam.github.io) · JavaScript
 - `2026-11-21` [repolocal](https://github.com/borizSam/repolocal) · Go
-- `2026-11-20` [quarto-bedrock](https://github.com/borizSam/quarto-bedrock) · JavaScript
 - `2026-11-15` [astro-care](https://github.com/borizSam/astro-care) · TypeScript
 - `2026-11-04` [skills-review-pull-requests](https://github.com/borizSam/skills-review-pull-requests) · HTML
 <!-- RECENT:END -->
